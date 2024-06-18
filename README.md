@@ -13,11 +13,11 @@ It uses LangChain to create RAG pipeline, youtube-transcript-api for transcript 
   
 ## 🤖 Running Locally
 
-  **Clone this repository**
+  - **Clone this repository**
     - git clone https://github.com/cs7-shrey/youtube-rag-chatbot.git
-  **Install Dependencies**
+  - **Install Dependencies**
     - pip install -r requirements.txt
-  **Setup GOOGLE_API_KEY and COHERE_API_KEY as environement variables**
+  - **Setup GOOGLE_API_KEY and COHERE_API_KEY as environement variables**
     - get api key from respective providers
-  **Run the app**
+  - **Run the app**
       - python -m streamlit run app.py

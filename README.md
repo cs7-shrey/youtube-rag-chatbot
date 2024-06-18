@@ -1,5 +1,5 @@
-## RAG Chatbot for YouTube videos
-### 📍Overview
+# RAG Chatbot for YouTube videos
+## 📍Overview
 That chatbot helps you ask questions about the contents of a youtube video just by inputting a link to the video
 It uses LangChain to create RAG pipeline, youtube-transcript-api for transcript and openai-whisper for speech-to-text capabilites
 
